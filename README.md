@@ -20,7 +20,7 @@ Users should be able to:
 ### Screenshot
 
 ![deskTop version](./Images/Screenshot%20(2).png)
-![Mobile version](./Images/Screenshot%20(4).jpg)
+![Mobile version](./Images/Screenshot%20(4).png)
 
 ### Built with
 
