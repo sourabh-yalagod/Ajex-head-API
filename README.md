@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Images/Screenshot%20(3).jpg)
-![](./Images/Screenshot%20(4).jpg)
+![deskTop version](./Images/Screenshot%20(2).png)
+![Mobile version](./Images/Screenshot%20(4).jpg)
 
 ### Built with
 
