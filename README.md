@@ -26,12 +26,12 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Java script
+- JavaScript
 - Mobile-first workflow
-
 
 ### Links
 
 - Live Site URL: [Solution Repository](https://github.com/sourabh-yalagod/Ajex-head-API.git)
 - Live Site URL: [live site](https://sourabh-yalagod.github.io/Ajex-head-API/)
 
+🌍 📱 🛠️ 🖼️
